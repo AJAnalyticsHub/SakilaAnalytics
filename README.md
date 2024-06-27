@@ -16,6 +16,12 @@ Sakila features data from the parent company of two DVD rental stores, and featu
 ## How to Use
 
 1. **Clone the Repository:**
+
+```
+{
+ git clone https://github.com/AJAnalyticsHub/SakilaAnalytics.git
+}
+```
    
 ![carbon](https://github.com/AJAnalyticsHub/SakilaAnalytics/assets/168544313/4fdd4cc6-dab9-446e-a285-348f60b1e628)
 
