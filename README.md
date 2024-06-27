@@ -17,8 +17,7 @@ Sakila features data from the parent company of two DVD rental stores, and featu
 
 1. **Clone the Repository:**
    
-	![carbon](![image](https://github.com/AJAnalyticsHub/SakilaAnalytics/assets/168544313/f3b3a32f-f9a6-4d84-9782-a0a1fb74f2bf)
-)
+![carbon](https://github.com/AJAnalyticsHub/SakilaAnalytics/assets/168544313/4fdd4cc6-dab9-446e-a285-348f60b1e628)
 
 2. **Download the Sakila Database:** Download and install the [Sakila](https://dev.mysql.com/doc/index-other.html) database from Oracle.
 
