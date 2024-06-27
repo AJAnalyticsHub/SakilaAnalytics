@@ -1,4 +1,4 @@
-![carbon](https://github.com/AJAnalyticsHub/SakilaAnalytics/assets/168544313/74ec656f-0773-49ed-8cb0-ea99f4b13e4e)![Sakila_Analytics (1)](https://github.com/AJAnalyticsHub/SakilaAnalytics/assets/168544313/6f823db2-584e-49de-92b6-d07e3ddcb8ba)
+![Sakila_Analytics](https://github.com/AJAnalyticsHub/SakilaAnalytics/assets/168544313/ad19b707-cf17-40e2-b1b7-271f13d5f9d8)
 
 This repository contains SQL scripts and analyses performed on the Sakila, a sample database from Oracle
 
