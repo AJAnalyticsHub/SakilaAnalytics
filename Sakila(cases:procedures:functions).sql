@@ -202,3 +202,13 @@ SET discount = discount_available(customerID);
 END //
 
 DELIMITER ;
+
+-- ----------------------------------------------------------- --
+-- Calculate the grand total of sales for a customer with ID 4 --
+-- ----------------------------------------------------------- --
+
+SET @total_after_discount = 0;
+
+CALL total_after_discount(4, @total_after_discount);
+
+SELECT @total_after_discount AS amount_with_discount;
